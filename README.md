@@ -1,5 +1,5 @@
 # Ad-Click-Prediction
-In this project we build a model to predict the possibility of clicking an ad on a website. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mafrojaakter/ad-click-data). Some highlights of the dataset are :
+In this project we build a model to predict the possibility of clicking an ad on a website. The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mafrojaakter/ad-click-data). Some highlights of the project are :
 
 1. Handling missing values
 2. Feature engineering
